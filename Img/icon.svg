@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ffff00" height="1" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="4" x="185.5" y="67.5"/>
+  <rect fill="#ffff00" height="0" id="svg_11" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="1" x="125.5" y="223.5"/>
+  <ellipse cx="322.5" cy="247" fill="#007fff" id="svg_14" rx="287" ry="208.5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0"/>
+  <rect fill="#00ffff" height="25" id="svg_17" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="162" x="84.5" y="155.5"/>
+  <rect fill="#00ffff" height="25" id="svg_18" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="162" x="84.5" y="320"/>
+  <rect fill="#00ffff" height="151" id="svg_20" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="22" x="224.5" y="170.5"/>
+  <rect fill="#00ffff" height="179" id="svg_21" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="35" x="270.5" y="161.5"/>
+  <rect fill="#00ffff" height="179" id="svg_22" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="35" x="378" y="161"/>
+  <rect fill="#00ffff" height="179" id="svg_24" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="35" x="446" y="160"/>
+  <rect fill="#00ffff" height="179" id="svg_25" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="35" x="523" y="160"/>
+  <rect fill="#00ffff" height="34" id="svg_27" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="105" x="451.5" y="159.5"/>
+  <rect fill="#00ffff" height="34" id="svg_28" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="105" x="453" y="304.5"/>
+  <rect fill="#00ffff" height="34" id="svg_29" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" transform="rotate(-55 361.5 214.5)" width="105" x="309" y="197.5"/>
+  <rect fill="#00ffff" height="34" id="svg_30" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" transform="rotate(55 320.5 213.5)" width="105" x="268" y="196.5"/>
+  <rect fill="#00ffff" height="185" id="svg_31" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-width="0" width="60" x="124" y="160"/>
+ </g>
+</svg>
